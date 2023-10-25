@@ -34,3 +34,8 @@ git checkout
 ```sh
 git merge
 ```
+
+Просмотор существующих веток
+```sh
+git branch (имя ветки)
+```
