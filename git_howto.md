@@ -12,7 +12,7 @@ git add
 
 Создание коммита
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 Вывод на экран истории всех коммитов
