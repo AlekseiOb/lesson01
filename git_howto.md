@@ -27,7 +27,7 @@ git log --oneline
 
 Переход от одного коммита к другому
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 
 Слияние двух веток
