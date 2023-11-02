@@ -49,3 +49,8 @@ git branch <имя_ветки>
 ```sh
 git branch -d <имя_ветки>
 ```
+
+Визуализация коммитов
+```sh
+git log - - graph
+```
